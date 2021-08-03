@@ -6,12 +6,10 @@ created: '2021-04-02T17:46:21.383Z'
 modified: '2021-04-02T18:55:59.902Z'
 ---
 
-# Published
+# Publications
 
-[Google Scholar Page](http://scholar.google.com/citations?user=Cc1TG-AAAAAJ&hl=en)
+[My Google Scholar Page](http://scholar.google.com/citations?user=Cc1TG-AAAAAJ&hl=en)
 
-
-## Publications
 
 - Microfinance and Social Investment, (with Jonathan Morduch), _Annual Review of Financial Economics_, vol. 3, 2011.
 - Enclaves and Development: an empirical assessment (with James A. Robinson) _Studies in Comparative International Development_, 44, 359-385, 2009
@@ -28,18 +26,3 @@ modified: '2021-04-02T18:55:59.902Z'
 - Prêt de groupe, aléa moral et création d'une garantie sociale, _Revue d'Économie du Développement_ 10(2), 65-101, 1997.
 
 ## Working Papers
-
-Financial Intermediation and Contracts
-The Costs of Commitment: present-bias, consumer protection, and firm ownership forms, with Karna Basu
-Monitoring by Peers or by Delegates? Joint Liability Loans under Moral Hazard.
-Social Finance, with Jonathan Morduch
-Pirates and Moneylenders: Product market competition and the depth of lending relationships in a rural market in Chile
-Property Rights and Political Economy
-Enclosure, distribution and efficiency, with Matt J. Baker
-On the Causes of Slavery or Serfdom and the Roads to Agrarian Capitalism: Domar's Hypothesis Revisited
-Latifundia Economics
-Impact Evaluation for Land Property Rights Reforms (with Partha Deb).  Other papers in the Doing Impact Evaluation series.
-The Russian Mir (with Aleksandr Michuda)
-Managing Economic Insecurity in El Salvador: Asset ownership and household labor market adjustment. (with Pedro Olinto and Alvaro Trigueros).
-Mixing and Matching Loans: An empirical analysis of credit rationing and Spillovers in a Rural Credit Market in Chile,
-Class Position and Economic Behavior: Selective Separability in a two factor household model. (with Jean-Louis Arcand).   

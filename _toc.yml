@@ -1,19 +1,16 @@
 format: jb-book
 root: index
 
-parts:
-- caption: Research
-  chapters:
+chapters:
+- file: research
+  sections:
   - file: notes/NewPapers
   - file: notes/Publications
   - file: notes/Working
   - file: notes/CV
 
-- caption: Teaching
-  chapters:
-    - file: notes/Teaching
+- file: notes/Teaching  
+  sections:
+  - file: README
+- file: notes/Code
     
-- Caption: Notebooks and Code
-  chapters:
-    - file: notes/Code
-      
