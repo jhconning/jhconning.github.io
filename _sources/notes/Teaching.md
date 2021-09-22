@@ -28,7 +28,7 @@ All these links will navigate to new sites:
 ^^^^
 **Teaching Economics with Python and Geogebra.**
 
-[![Econ-Teach](econ_teach.png)](https://jhconning.github.io/Econ-Teach:) 
+[![Econ-Teach](econ_teach.png)](https://jhconning.github.io/Econ-Teach) 
 
 ---
 [Development Seminar II (PhD)](https://jhconning.github.io/DevII) 
@@ -76,9 +76,9 @@ Code framework for papers including "[Latifundia Economics](https://drive.google
 ::::
 
 
-### Other Recent Past Teaching
-
-- **Eco 340: International Trade**
+### Past Recent Past Courses
+-**Eco 701: Microeconomic Theory**
+- **Eco 340: International Trade** --  [class Twitter feed](https://twitter.com/HCtrades)  
 - **Eco 740: International Trade (MA)**
 - **[The Economics of Land Governance](https://github.com/jhconning/land_uct_2019)**, U Cape Town, 2019.
 
