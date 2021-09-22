@@ -21,6 +21,8 @@
 
 I like to work with [jupyter](https://jupyter.org), python, geogebra, and other scientific computing and open source tools. Over the years I've build a large number of interactive notebooks and geogebra applets to teach economics and reproduce economics research.  Here are a few of those resources assembled as [jupyter books](https://jupyterbook.org) and shared via github repositories.
 
+All these links will navigate to new sites:
+
 ::::{panels}
 [Econ-Teach](https://jhconning.github.io/Econ-Teach/) notebooks and apps 
 ^^^^
@@ -74,7 +76,7 @@ Code framework for papers including "[Latifundia Economics](https://drive.google
 ::::
 
 
-### Past Teaching
+### Other Recent Past Teaching
 
 - **Eco 340: International Trade**
 - **Eco 740: International Trade (MA)**
