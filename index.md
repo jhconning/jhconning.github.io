@@ -18,13 +18,16 @@ City University of New York (CUNY)<br>
 695 Park Avenue<br> New York, NY 10065
 
 </H5>
+
 ---
 
 <H3 style="text-align:center;">
 
-[Research](./notes/research.md)
+[Research](./notes/newpapers.md)
 
 [Teaching and Code](./notes/Teaching.md)
 
-
 </H3>
+
+---
+

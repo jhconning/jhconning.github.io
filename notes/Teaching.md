@@ -76,7 +76,7 @@ Code framework for papers including "[Latifundia Economics](https://drive.google
 ::::
 
 
-### Other Recent Past Teaching
+### Past Recent Past Courses
 
 - **Eco 340: International Trade**
 - **Eco 740: International Trade (MA)**
