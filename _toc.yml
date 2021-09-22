@@ -6,10 +6,12 @@ parts:
   chapters:
   - file: notes/newpapers
   - file: notes/research
-  - file: notes/CV
+  - url: https://drive.google.com/file/d/1g_2nPuWn4QKVQwM1FEwhNpL61EhHNDVI/view?usp=sharing
+    title: CV
 
 - caption: Teaching
   chapters:
   - file: notes/Teaching
+    title: Teaching and Code
 
-
+  
