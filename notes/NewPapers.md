@@ -1,8 +1,4 @@
----
-title: Working
-created: '2021-04-02T18:52:17.241Z'
-modified: '2021-04-02T18:52:19.978Z'
----
+
 <H1 style="text-align:center;">
 Research
 </H1>
