@@ -1,11 +1,3 @@
----
-title: index
-title_custom: true
-tags: [posted]
-created: '2021-04-02T17:57:50.246Z'
-modified: '2021-04-02T18:49:10.737Z'
----
-
 <H1 style="text-align:center;">
 Jonathan H. Conning
 </H1>
@@ -20,14 +12,14 @@ City University of New York (CUNY)<br>
 </H5>
 
 ---
-
-<H3 style="text-align:center;">
-
-[Research](./notes/newpapers.md)
-
-[Teaching and Code](./notes/Teaching.md)
-
-</H3>
+# 
+::::{panels}
+**[Research](./notes/newpapers.md)**
+^^^^
+[![](notes/nash_eq.png)](./notes/newpapers.md)
 
 ---
-
+**[Teaching and Code](./notes/Teaching.md)**
+^^^^
+[![](notes/econ_teach.png)](./notes/Teaching.md)
+::::
