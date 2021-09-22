@@ -1,3 +1,5 @@
+# 
+
 <H1 style="text-align:center;">
 Jonathan H. Conning
 </H1>
@@ -11,8 +13,10 @@ City University of New York (CUNY)<br>
 
 </H5>
 
+
 ---
-# 
+
+
 ::::{panels}
 **[Research](./notes/newpapers.md)**
 ^^^^
@@ -23,3 +27,9 @@ City University of New York (CUNY)<br>
 ^^^^
 [![](notes/econ_teach.png)](./notes/Teaching.md)
 ::::
+
+
+<H6 style="text-align:center;">
+<a href="https://twitter.com/JonathanConning?ref_src=twsrc%5Etfw"  data-show-count="false">@JonathanConning</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+</H6>
