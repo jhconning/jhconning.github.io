@@ -3,6 +3,6 @@
 
 
 
-This site is used to organize content for a [![Jupyter Book Badge](https://jupyterbook.org/badge.svg)](https://jhconning.github.io/)
+This site is used to organize content for a [![Jupyter Book Badge](https://jupyterbook.org/badge.svg)](https://jhconning.github.io/) at https://jhconning.github.io
 
-Most of the content is written in markdown (.md) and jupyter notebook (.ipynb) files and then rendered as a jupyterbook website via github pages. 
+The content is written jupyter notebook (.ipynb) and markdown (.md) files and rendered as a [jupyterbook](https://jupyterbook.org/) website via github pages. 
