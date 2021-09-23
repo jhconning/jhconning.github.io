@@ -5,6 +5,9 @@ Research
 
 [Google Scholar Page](http://scholar.google.com/citations?user=Cc1TG-AAAAAJ&hl=en)
 
+
+[published and other papers](research.md)
+
 #### New Papers
 
 
