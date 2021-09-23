@@ -1,17 +1,10 @@
----
-title: research
-title_custom: true
-tags: [posted]
-created: '2021-04-02T17:46:21.383Z'
-modified: '2021-04-02T18:55:59.902Z'
----
-
 # Research
 
 [Google Scholar Page](http://scholar.google.com/citations?user=Cc1TG-AAAAAJ&hl=en)
 
+[Newer papers](newpapers.md)
 
-### Published
+**Published**
 
 >Conning, J. and Jonathan Morduch (2011), "Microfinance and Social Investment," _Annual Review of Financial Economics_, vol. 3.
 
@@ -42,8 +35,10 @@ modified: '2021-04-02T18:55:59.902Z'
 ---
 >Conning, J. (1997) "Prêt de groupe, aléa moral et création d'une garantie sociale," _Revue d'Économie du Développement_ 10(2), 65-101.
 
-#### Selected Working Papers
 >Basu, Karna and Jonathan Conning (2021) [Threats to Commitment: Contracting with Present-Biased Consumers under Renegotiation Concerns](https://jhconning.github.io/commitments/) manuscript, under submission.  
+
+
+**Selected Working Papers**
 
 ---
 >Baker, Matthew and Jonathan Conning (2021) [A Model of Enclosures: Coordination, Conflict, and Efficiency in the Transformation of Land Property Rights](https://jhconning.github.io/enclosure_book/).
