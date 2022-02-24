@@ -12,7 +12,7 @@
 ---
 **Econ 340: International Trade**
 
-([site with interactive visualizations and notes](https://jhconning.github.io/Trade340))
+([site with interactive visualizations and notes](https://jhconning.github.io/Econ-Teach/notebooks/trade/SFM.html))
 
 ([Tophat course site](https://app.tophat.com/e/851698))
 
