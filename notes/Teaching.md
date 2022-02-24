@@ -2,19 +2,29 @@
 
 ```{contents}
 ```
- 
- ### Fall 2021 Courses
+ ### Spring 2022 Courses
  
 ::::{panels}
 **Econ 100: Introduction to Economics**
 
-([Tophat course site](https://app.tophat.com/e/975233))
+([Tophat course site](https://app.tophat.com/e/360858))
+
 ---
-**Econ 842: Development Seminar II (PhD)**
+**Econ 340: International Trade**
 
-(see below)
+([site with interactive visualizations and notes](https://jhconning.github.io/Trade340))
+
+([Tophat course site](https://app.tophat.com/e/851698))
+
+---
+**Some recent past courses**
+
+- **Econ 842: Development Seminar II (PhD)** (see below)
+- **Eco 701: Microeconomic Theory**
+- **Eco 740: International Trade (MA)**
+- **[Economics of Land Governance](https://github.com/jhconning/land_uct_2019)**, U Cape Town, 2019.
+
 ::::
-
 
 
 ### Code for Teaching and Replication
@@ -76,11 +86,6 @@ Code framework for papers including "[Latifundia Economics](https://drive.google
 ::::
 
 
-### Past Recent Past Courses
--**Eco 701: Microeconomic Theory**
-- **Eco 340: International Trade** --  [class Twitter feed](https://twitter.com/HCtrades)  
-- **Eco 740: International Trade (MA)**
-- **[The Economics of Land Governance](https://github.com/jhconning/land_uct_2019)**, U Cape Town, 2019.
 
 
 
