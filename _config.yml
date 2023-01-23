@@ -29,8 +29,10 @@ repository:
   
 parse:
   myst_enable_extensions:
-    - linkify
     - colon_fence
+    - linkify
+  myst_url_schemes: [mailto, http, https] # URI schemes that will be recognised as external URLs in Markdown links
+  myst_dmath_double_inline: true  # Allow display math ($$) within an inline context
 
 # Add GitHub buttons to your book
 # See https://jupyterbook.org/customize/config.html#add-a-link-to-your-repository
@@ -40,6 +42,6 @@ html:
 
 only_build_toc_files: true
 
-sphinx:
-  config:
-    myst_heading_anchors: 2
+# sphinx:
+#   config:
+#     myst_heading_anchors: 2
