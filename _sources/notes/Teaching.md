@@ -1,28 +1,34 @@
+---
+modified: 2023-01-23T19:59:24.275Z
+title: Teaching and Code
+---
+
 # Teaching and Code
 
-```{contents}
-```
- ### Spring 2022 Courses
+
+ ### Spring 2023 Courses
  
 ::::{panels}
 **Econ 100: Introduction to Economics**
 
-([Tophat course site](https://app.tophat.com/e/360858))
+([Tophat course site](https://app.tophat.com/e/659257))
 
 ---
-**Econ 340: International Trade**
+**Econ 331: Economic History**
 
-([site with interactive visualizations and notes](https://jhconning.github.io/Econ-Teach/notebooks/trade/SFM.html))
-
-([Tophat course site](https://app.tophat.com/e/851698))
 
 ---
+**Econ 340: International Trade** (Fall 2022)
+[(Interactive applets and notebooks)](https://jhconning.github.io/Econ-Teach/notebooks/trade/trade_geogebra.html) 
+
+---
+
 **Some recent past courses**
 
 - **Econ 842: Development Seminar II (PhD)** (see below)
 - **Eco 701: Microeconomic Theory**
 - **Eco 740: International Trade (MA)**
-- **[Economics of Land Governance](https://github.com/jhconning/land_uct_2019)**, U Cape Town, 2019.
+- **[Economics of Land Tenure](https://github.com/jhconning/land_uct_2019)** (U Cape Town, 2019).
 
 ::::
 
