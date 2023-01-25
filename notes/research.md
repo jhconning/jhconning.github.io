@@ -1,8 +1,8 @@
 # Research
 
-[Google Scholar Page](http://scholar.google.com/citations?user=Cc1TG-AAAAAJ&hl=en)
+- [Google Scholar Page](http://scholar.google.com/citations?user=Cc1TG-AAAAAJ&hl=en)
 
-[Newer papers](newpapers.md)
+- [Newer papers](newpapers.md)
 
 **Published**
 
