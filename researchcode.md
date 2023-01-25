@@ -2,8 +2,6 @@
 
 Notebooks with code to document and reproduce research shared as jupyter books and github repositories.
 
-
-
 ::::{grid} 2
 
 :::{grid-item-card} [A Model of Enclosures](https://jhconning.github.io/enclosure_book/content.html)
@@ -22,3 +20,4 @@ Code framework for papers including "[Latifundia Economics](https://drive.google
 :::
 
 ::::
+

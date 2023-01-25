@@ -28,6 +28,7 @@ repository:
   branch: master  # Which branch of the repository should be used when creating links (optional)
   
 parse:
+  
   myst_enable_extensions:
     - colon_fence
     - linkify
@@ -42,6 +43,6 @@ html:
 
 only_build_toc_files: true
 
-# sphinx:
-#   config:
-#     myst_heading_anchors: 2
+sphinx:
+  config:
+    myst_heading_anchors: 2

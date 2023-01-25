@@ -31,8 +31,6 @@ SP23 Canvas site (coming soon)
 
 ::::
 
-See [see grids](grids)
-
 
 ## Economics Teaching and Research with Python
 
