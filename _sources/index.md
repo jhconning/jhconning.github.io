@@ -15,19 +15,16 @@ City University of New York (CUNY)<br>
 
 
 ---
+::::{grid} 2
 
-
-::::{panels}
-**[Research](./notes/newpapers.md)**
-^^^^
+:::{grid-item-card} Research
 [![](notes/nash_eq.png)](./notes/newpapers.md)
+:::
 
----
-**[Teaching and Code](./notes/Teaching.md)**
-^^^^
+:::{grid-item-card} Teaching and Code
 [![](notes/econ_teach.png)](./notes/Teaching.md)
+:::
 ::::
-
 
 <H6 style="text-align:center;">
 <a href="https://twitter.com/JonathanConning?ref_src=twsrc%5Etfw"  data-show-count="false">@JonathanConning</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
