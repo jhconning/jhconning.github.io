@@ -13,7 +13,7 @@ Research
 
 #### New Papers
 
->Baker, Matthew and Jonathan Conning (2022) [A Model of Enclosures: Coordination, Conflict, and Efficiency in the Transformation of Land Property Rights](https://jhconning.github.io/enclosure_book)
+>Baker, Matthew and Jonathan Conning (2023) [A Model of Enclosures: Coordination, Conflict, and Efficiency in the Transformation of Land Property Rights](https://jhconning.github.io/enclosure_book)
 
 ::::{tab-set}
 
@@ -23,7 +23,7 @@ Research
 :::
 
 :::{tab-item} Abstract
-**Abstract:** We study a general equilibrium model of enclosures - the costly process by which open-access come to be more exclusively and privately owned.  We model the enclosure process as an aggregative game where population density, technological improvement possibilities, and the costs of establishing property rights determine whether none, some, or all land in a region becomes transformed. The model allows us to study whether labor is displaced or augmented by enclosures, and the implications of enclosure for productive efficiency, wages, land rental rates, and welfare.  We study both atomistic and policy-driven enclosure processes and show how, depending on the environment, either may lead to efficient or inefficient transformation of land rights, and may even lead to costly property-claiming races in yet others. We show how the model may be extended to understand the transformation of more traditional land ownership systems into more modern ownership regimes. The model admits multiple equilibria for some parameters, implying indeterminacy of the property rights regime. We analyze these cases using global game equilibrium selection tools.
+**Abstract:** Historians and political economists have long debated the processes that led land in frontier regions, managed commons, and a variety of customary landholding regimes to be enclosed and transformed into more exclusive forms of private property. Using the framework of aggregative games, we examine land-holding regimes where access to land is established via possession and use, and then explore the factors that may initiate decentralized privatization processes. Factors including population density, potential for technology improvement, enclosure costs, shifts in group cohesion and bargaining power, or the policy and institutional environment determine the equilibrium mix of property regimes. While decentralized processes yield efficient enclosure and technological transformation in some circumstances, in others, the outcomes fall short of second-best. This stems from the interaction of different spillover effects, leading to inefficiently low rates of enclosure and technological transformation in some cases and excessive enclosure in others. Implementing policies to strengthen customary governance, compensate displaced stakeholders, or subsidize/tax enclosure can realign incentives. However, addressing one market failure while overlooking others can worsen outcomes. Our analysis offers a unified framework for evaluating claimed mechanisms and processes across Neoclassical, neo-institutional, and Marxian interpretations of enclosure processes.
 :::
 
 ::::
