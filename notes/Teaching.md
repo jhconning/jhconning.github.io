@@ -5,8 +5,9 @@ title: Teaching and Code
 
 # Teaching and Code
 
+### On Sabbatical Leave 2023-24
 
- ### Spring 2023 Courses
+### Spring 2023 Courses
  
 
 ::::{grid} 2
@@ -41,7 +42,7 @@ SP23 Canvas site (coming soon)
 [![Econ-Teach](econ_teach.png)](https://jhconning.github.io/Econ-Teach) 
 :::
 
-:::{grid-item-card} [PhD Development seminar II)](https://jhconning.github.io/DevII) 
+:::{grid-item-card} [PhD Development seminar II](https://jhconning.github.io/DevII) 
 [![Harris-Todaro](HarrisTodaro_25_1.png)](https://jhconning.github.io/DevII) 
 :::
 
