@@ -1,37 +1,41 @@
 ---
-modified: 2023-01-23T19:59:24.275Z
+modified: 2024-06-08T15:45:05.134Z
 title: Teaching and Code
 ---
-
 # Teaching and Code
 
-### On Sabbatical Leave 2023-24
+### Recent and forthcoming courses
 
-### Spring 2023 Courses
- 
+::::{grid} 
+:gutter: 3
 
-::::{grid} 2
-:::{grid-item-card}  Eco 100: Introduction to Economics
-([SP23 Tophat site](https://app.tophat.com/e/659257))
+:::{grid-item-card}  Eco 100: Intro to Economics.
+Fall 2024, Spring 2025
 :::
-:::{grid-item-card}  Eco 331: Economic History
-SP23 Canvas site (coming soon)
+
+:::{grid-item-card}  Eco 842: Development Seminar II (PhD) 
+Fall 2024.
+See site below.
+:::
+
+
+:::{grid-item-card}  Eco 331: Economic History. 
+Spring 2025 
+[SP25 Canvas site](https://canvas.instructure.com/courses/5957869) (requires registration). 
 :::
 
 ::::
 
 ::::{grid} 1
+:::{grid-item-card}  Other Recent Past Courses
 
-:::{grid-item-card}  Recent Past Courses
 - **Eco 340: International Trade** [(Interactive content)](https://jhconning.github.io/Econ-Teach/notebooks/trade/trade_geogebra.html)
-- **Eco 842: Development Seminar II (PhD)** (see below)
 - **Eco 701: Microeconomic Theory**
 - **Eco 740: International Trade (MA)**
 - **[Economics of Land Tenure (short PhD course)](https://github.com/jhconning/land_uct_2019)**, U Cape Town, 2019.
-:::
+  :::
 
 ::::
-
 
 ## Economics Teaching and Research with Python
 
@@ -39,17 +43,16 @@ SP23 Canvas site (coming soon)
 
 ::::{grid} 2
 :::{grid-item-card} [Econ-Teach](https://jhconning.github.io/Econ-Teach/) notebooks and apps
-[![Econ-Teach](econ_teach.png)](https://jhconning.github.io/Econ-Teach) 
+[![Econ-Teach](econ_teach.png)](https://jhconning.github.io/Econ-Teach)
 :::
 
-:::{grid-item-card} [PhD Development seminar II](https://jhconning.github.io/DevII) 
-[![Harris-Todaro](HarrisTodaro_25_1.png)](https://jhconning.github.io/DevII) 
+:::{grid-item-card} [PhD Development seminar II](https://jhconning.github.io/DevII)
+[![Harris-Todaro](HarrisTodaro_25_1.png)](https://jhconning.github.io/DevII)
 :::
 
-:::{grid-item-card} [The Economics of Land Governance](https://github.com/jhconning/land_uct_2019) 
+:::{grid-item-card} [The Economics of Land Governance](https://github.com/jhconning/land_uct_2019)
 University of Cape Town, 2019 and 2018. Part of a six-week course.
-[![Econ-Teach](uctland.png)](https://github.com/jhconning/land_uct_2019) 
+[![Econ-Teach](uctland.png)](https://github.com/jhconning/land_uct_2019)
 :::
 
 ::::
-
