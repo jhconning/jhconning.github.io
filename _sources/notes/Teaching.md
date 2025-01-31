@@ -46,7 +46,7 @@ Spring 2025
 [![Econ-Teach](econ_teach.png)](https://jhconning.github.io/Econ-Teach)
 :::
 
-:::{grid-item-card} [PhD Development seminar II](https://jhconning.github.io/DevII)
+:::{grid-item-card} [PhD Development seminar II](https://jhconning.github.io/DevII24)
 [![Harris-Todaro](HarrisTodaro_25_1.png)](https://jhconning.github.io/DevII)
 :::
 
