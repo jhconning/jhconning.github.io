@@ -1,0 +1,34 @@
+version: 1
+project:
+  title: Jonathan H. Conning
+  authors:
+    - name: Jonathan H. Conning
+  github: jhconning/jhconning.github.io
+  thebe:
+    binder:
+      repo: jhconning/jhconning.github.io
+      provider: github
+      url: https://mybinder.org
+      ref: master
+  exports:
+    - format: pdf
+      template: plain_latex_book
+      output: exports/book.pdf
+  toc:
+    - file: index.md
+    - title: Research
+      children:
+        - file: notes/newpapers.md
+        - file: notes/research.md
+        - url: >-
+            https://drive.google.com/file/d/1g_2nPuWn4QKVQwM1FEwhNpL61EhHNDVI/view?usp=sharing
+          title: CV
+    - title: Teaching and Code
+      children:
+        - file: notes/Teaching.md
+        - file: notes/researchcode.md
+site:
+  options:
+    logo: github_picture.jpg
+    folders: true
+  template: book-theme

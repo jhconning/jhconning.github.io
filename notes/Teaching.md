@@ -9,7 +9,8 @@ title: Teaching and Code
 ::::{grid} 
 :gutter: 3
 
-:::{grid-item-card}  Eco 100: Intro to Economics.
+:::{grid-item-card}  Eco 100: Intro
+ to Economics.
 Fall 2024, Spring 2025
 :::
 

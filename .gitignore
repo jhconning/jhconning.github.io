@@ -1,2 +1,6 @@
 _build/
 .notable/.settings.json
+.claude/
+._*.bak
+notes/Teaching.html
+notes/Teaching_files/
