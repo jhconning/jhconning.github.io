@@ -11,19 +11,21 @@ title: Teaching and Code
 
 :::{grid-item-card}  Eco 100: Intro
  to Economics.
-Fall 2024, Spring 2025
+Fall 2024, Spring 2026
 :::
+
+
+:::{grid-item-card}  Eco 331: Economic History. 
+Spring 2026 
+[SP25 Canvas site](https://canvas.instructure.com/courses/5957869) (requires registration). 
+:::
+
 
 :::{grid-item-card}  Eco 842: Development Seminar II (PhD) 
 Fall 2024.
 See site below.
 :::
 
-
-:::{grid-item-card}  Eco 331: Economic History. 
-Spring 2025 
-[SP25 Canvas site](https://canvas.instructure.com/courses/5957869) (requires registration). 
-:::
 
 ::::
 
