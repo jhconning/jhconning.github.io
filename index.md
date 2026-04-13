@@ -18,11 +18,23 @@ City University of New York (CUNY)<br>
 ::::{grid} 2
 
 :::{grid-item-card} Research
-[![](notes/nash_eq.png)](./notes/newpapers.md)
+```{figure} notes/nash_eq.png
+---
+width: 100%
+align: center
+---
+```
+[Link to papers](./notes/newpapers.md)
 :::
 
 :::{grid-item-card} Teaching and Code
-[![](notes/econ_teach.png)](./notes/Teaching.md)
+```{figure} notes/econ_teach.png
+---
+width: 100%
+align: center
+---
+```
+[Link to teaching](./notes/Teaching.md)
 :::
 ::::
 

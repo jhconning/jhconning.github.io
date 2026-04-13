@@ -19,7 +19,13 @@ Research
 
 :::{tab-item} Paper and Replication
 [Paper and Replication Code](https://open-enclose.github.io/)
-[![](nash_eq.png/)](https://open-enclose.github.io/)
+```{figure} nash_eq.png
+---
+width: 100%
+align: center
+---
+```
+[Link to paper](https://open-enclose.github.io/)
 :::
 
 :::{tab-item} Abstract
@@ -37,7 +43,13 @@ Research
 :::{tab-item} Paper and Replication
 [Paper and Replication Code](https://jhconning.github.io/commitments/)
 
-[![](RPconstraint.gif)](https://jhconning.github.io/commitments/)
+```{figure} RPconstraint.gif
+---
+width: 100%
+align: center
+---
+```
+[Link to paper](https://jhconning.github.io/commitments/)
 
 :::
 
