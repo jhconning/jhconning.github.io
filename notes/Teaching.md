@@ -46,16 +46,34 @@ See site below.
 
 ::::{grid} 2
 :::{grid-item-card} [Econ-Teach](https://jhconning.github.io/Econ-Teach/) notebooks and apps
-[![Econ-Teach](econ_teach.png)](https://jhconning.github.io/Econ-Teach)
+```{figure} econ_teach.png
+---
+width: 100%
+align: center
+---
+```
+[Link to Econ-Teach](https://jhconning.github.io/Econ-Teach)
 :::
 
 :::{grid-item-card} [PhD Development seminar II](https://jhconning.github.io/DevII24)
-[![Harris-Todaro](HarrisTodaro_25_1.png)](https://jhconning.github.io/DevII)
+```{figure} HarrisTodaro_25_1.png
+---
+width: 100%
+align: center
+---
+```
+[Link to Seminar II](https://jhconning.github.io/DevII)
 :::
 
 :::{grid-item-card} [The Economics of Land Governance](https://github.com/jhconning/land_uct_2019)
 University of Cape Town, 2019 and 2018. Part of a six-week course.
-[![Econ-Teach](uctland.png)](https://github.com/jhconning/land_uct_2019)
+```{figure} uctland.png
+---
+width: 100%
+align: center
+---
+```
+[Link to Land Governance](https://github.com/jhconning/land_uct_2019)
 :::
 
 ::::
