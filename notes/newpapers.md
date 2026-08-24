@@ -13,7 +13,7 @@ Research
 
 #### New Papers
 
->Baker, Matthew and Jonathan Conning (2026) [A Model of Enclosures: Coordination, Conflict, and Efficiency in the Transformation of Land Property Rights](https://open-enclose.github.io/)
+>Baker, Matthew and Jonathan Conning (2026) [A Model of Enclosures: Coordination, Conflict, and Efficiency in the Transformation of Land Property Rights](https://drive.google.com/open?id=1x7P-4pqeKXNnZa0WFsfpsvTzFkT_B3ve&usp=drive_fs), Review of Economic Studies, *forthcoming.*
 
 ::::{tab-set}
 
