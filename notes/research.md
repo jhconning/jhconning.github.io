@@ -41,7 +41,7 @@
 **Selected Working Papers**
 
 ---
->Baker, Matthew and Jonathan Conning (2021) [A Model of Enclosures: Coordination, Conflict, and Efficiency in the Transformation of Land Property Rights](https://jhconning.github.io/enclosure_book/).
+>Conning, J. (2026), [“Monitoring by Delegates or by Peers? Joint-Liability Loans under Moral Hazard”](https://drive.google.com/file/d/11rRsBuWen80HlkD3pvXKqeWOvg11lPyg/view?usp=sharing).
 
 ---
 >Baker, Matthew and Jonathan Conning (2021) "The Transformation of Customary Land Rights in Africa: An Analytical Framing."
@@ -50,10 +50,7 @@
 >Conning, J. (2019) “Latifundia Economics.” 
 
 ---
->Conning, J. (2017), “On the Causes of Slavery or Serfdom and the Roads to Agrarian Capitalism: Domar's Hypothesis Revisited.”  
-
----
-> Conning, J. (2005), ["Monitoring by Delegates or by Peers? Joint-Liability Loans under Moral Hazard"](https://drive.google.com/file/d/11rRsBuWen80HlkD3pvXKqeWOvg11lPyg/view?usp=sharing).
+>Conning, J. (2017), “On the Causes of Slavery or Serfdom and the Roads to Agrarian Capitalism: Domar's Hypothesis Revisited.”
 
 
 
