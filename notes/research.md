@@ -53,7 +53,7 @@
 >Conning, J. (2017), “On the Causes of Slavery or Serfdom and the Roads to Agrarian Capitalism: Domar's Hypothesis Revisited.”  
 
 ---
-> Conning, J. (2005), "Monitoring by Delegates or by Peers? Joint-Liability Loans under Moral Hazard."
+> Conning, J. (2005), ["Monitoring by Delegates or by Peers? Joint-Liability Loans under Moral Hazard"](https://drive.google.com/file/d/11rRsBuWen80HlkD3pvXKqeWOvg11lPyg/view?usp=sharing).
 
 
 
